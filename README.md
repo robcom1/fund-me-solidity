@@ -1,3 +1,5 @@
+Simple Solidity Funding Contract with Price Converter which grabs chainlink contract to check the ETH/USD Price.
+
 This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
 
 ## How to start:
